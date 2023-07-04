@@ -1,7 +1,6 @@
 <?php
 /*
  * Plugin Name: Disable Shipments when the free one is active
- * Plugin URI: https://ondesarrollo.com
  * Description: Disable Shipments when the free one is active
  * Author: Marta Torre
  * Version: 1.0
