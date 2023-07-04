@@ -2,9 +2,9 @@
 Contributors: martatorre
 Tags: woocommerce, shipping, free
 Requires at least: 4.0
-Tested up to: 5.3
+Tested up to: 6.2.2
 Stable tag: 1.1
-Requires PHP: 5.6.0
+Requires PHP: 7.4
 License: GPLv3+
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
